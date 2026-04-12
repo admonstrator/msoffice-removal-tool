@@ -4,7 +4,7 @@
 
 **Remove Office installations with ease!**
 
-[![Latest Release](https://img.shields.io/badge/release-N/A-blue?style=for-the-badge&logo=github)](https://github.com/Admonstrator/msoffice-removal-tool/releases/latest) [![License](https://img.shields.io/github/license/Admonstrator/msoffice-removal-tool?style=for-the-badge)](LICENSE) [![Stars](https://img.shields.io/badge/stars-100-green?style=for-the-badge&logo=github)](https://github.com/Admonstrator/msoffice-removal-tool/stargazers)
+[![Latest Release](https://img.shields.io/badge/release-N/A-blue?style=for-the-badge&logo=github)](https://github.com/Admonstrator/msoffice-removal-tool/releases/latest) [![License](https://img.shields.io/github/license/Admonstrator/msoffice-removal-tool?style=for-the-badge)](LICENSE) [![Stars](https://img.shields.io/badge/stars-102-green?style=for-the-badge&logo=github)](https://github.com/Admonstrator/msoffice-removal-tool/stargazers)
 
 ---
 
@@ -206,6 +206,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 <div align="center">
 
-_Last updated: 2026-04-05_
+_Last updated: 2026-04-12_
 
 </div>
