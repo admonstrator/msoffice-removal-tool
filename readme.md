@@ -206,6 +206,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 <div align="center">
 
-_Last updated: 2026-09-27_
+_Last updated: 2026-10-04_
 
 </div>
